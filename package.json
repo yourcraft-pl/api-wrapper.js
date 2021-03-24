@@ -1,0 +1,22 @@
+{
+  "name": "ycapi",
+  "version": "1.0.0",
+  "description": "YourCraft API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourcraft-pl/api-wrapper.js.git"
+  },
+  "author": "uQlel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourcraft-pl/api-wrapper.js/issues"
+  },
+  "homepage": "https://github.com/yourcraft-pl/api-wrapper.js#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
